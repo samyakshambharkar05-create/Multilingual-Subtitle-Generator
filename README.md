@@ -1,4 +1,3 @@
-# Project-4
 # Project Title
 ```
 Author(s): Your Name(s)
@@ -13,7 +12,7 @@ including the problem statement, methodology, and results.
 Keep it concise (150–250 words).
 ```
 
-## introduction
+## Introduction
 ```
 Describe the background, motivation,
 and objectives of the project. 
@@ -31,7 +30,7 @@ Explain how your system works.(100 words)
 ```
 
 
-## implementation
+## Implementation
 ```
 Provide technical details:
 Programming languages
