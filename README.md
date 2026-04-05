@@ -1,4 +1,4 @@
-# Project Title
+# Caption AI
 ```
 Author(s): Your Name(s)
 Affiliation: Your University / Organization
