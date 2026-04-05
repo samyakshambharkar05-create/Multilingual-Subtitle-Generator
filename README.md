@@ -1,4 +1,4 @@
-# Caption AI
+# Multilingual Subtitle Generator
 ```
 Author(s): Your Name(s)
 Affiliation: Your University / Organization
